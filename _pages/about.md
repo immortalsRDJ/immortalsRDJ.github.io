@@ -22,4 +22,4 @@ I'm an Economics undergraduate at Zhejiang University and currently a visiting s
 
 <br>
 
-I am preparing for further scholarly training in Economics after graduating in June 2025. Outside of academics, I’m also training for my first marathon. For more details, you can view my [CV here](assets/pdf/cv-myy-Oct27.pdf).
+I am preparing for further scholarly training in Economics after graduating in June 2025. Outside of academics, I’m also training for my first marathon. For more details, you can view my [CV here](assets/pdf/cv-myy.pdf).
