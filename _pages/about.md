@@ -24,7 +24,7 @@ I’m a master’s student in Quantitative Economics at NYU, interested in **Emp
 <br>
 
 For more details, you can view my [CV](assets/pdf/cv-myy.pdf) here.  
-Feel free to contact me at: <claire.meng@nyu.edu>
+Feel free to contact me at: <claire.meng@nyu.edu> or <claire.meng@stern.nyu.edu>
 
 <br><br>
 
