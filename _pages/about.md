@@ -21,8 +21,7 @@ social: false
 
 <p>I'm a master's student in Quantitative Economics at NYU, interested in <strong style="color: var(--global-theme-color);">Empirical Industrial Organization</strong> and <strong style="color: var(--global-theme-color);">Auction Theory</strong>. My current research explores structural approaches to identifying bidder behavior in public procurement auctions.</p>
 
-<p>For more details, you can view my <a href="assets/pdf/cv-myy.pdf" style="color: var(--global-theme-color); text-decoration: none; font-weight: bold;">CV</a> here.  
-Feel free to contact me at: <a href="mailto:claire.meng@nyu.edu" style="color: var(--global-theme-color);">claire.meng@nyu.edu</a> or <a href="mailto:claire.meng@stern.nyu.edu" style="color: var(--global-theme-color);">claire.meng@stern.nyu.edu</a></p>
+<p>Feel free to contact me at: <a href="mailto:claire.meng@nyu.edu" style="color: var(--global-theme-color);">claire.meng@nyu.edu</a> or <a href="mailto:claire.meng@stern.nyu.edu" style="color: var(--global-theme-color);">claire.meng@stern.nyu.edu</a></p>
 
 <div style="margin-top: 20px; padding-top: 20px; border-top: 1px solid var(--global-theme-color);">
 <a href="https://www.linkedin.com/in/yangyang-meng-227700362/" target="_blank" style="margin-right: 15px; color: var(--global-theme-color); text-decoration: none;">
